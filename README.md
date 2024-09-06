@@ -43,6 +43,10 @@ You can contribute to this list by opening a [pull request](https://github.com/A
 
 * [aomstats](https://aomstats.io/): civilization win rate statistics broken down by elo, map, game length, patch
 
+## Guides
+
+* [AoM on Linux](https://aom.arkanosis.net/linux/): play this Microsoft game on a free operating system
+
 ## Wikis
 * [Fandom](https://ageofempires.fandom.com/wiki/Age_of_Mythology): everything about the game
 * [liquipedia](https://liquipedia.net/ageofempires/Main_Page): everything about the scene
